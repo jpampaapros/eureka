@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Recorridos virtuales 360º para inmobiliarias.	</title>
+	<atom:link href="/recorridos-virtuales-360o-para-inmobiliarias/feed/" rel="self" type="application/rss+xml" />
+	<link>/recorridos-virtuales-360o-para-inmobiliarias/</link>
+	<description>La agencia que se mete de lleno a tu negocio</description>
+	<lastBuildDate>Wed, 03 Feb 2021 21:27:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
