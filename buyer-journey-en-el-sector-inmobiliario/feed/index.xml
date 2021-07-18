@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Buyer Journey en el sector inmobiliario	</title>
-	<atom:link href="https://eureka-one.vercel.app/buyer-journey-en-el-sector-inmobiliario/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eureka-one.vercel.app/buyer-journey-en-el-sector-inmobiliario/</link>
+	<atom:link href="/buyer-journey-en-el-sector-inmobiliario/feed/" rel="self" type="application/rss+xml" />
+	<link>/buyer-journey-en-el-sector-inmobiliario/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Wed, 03 Feb 2021 21:25:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

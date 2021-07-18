@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Recorridos virtuales 360º para inmobiliarias.	</title>
-	<atom:link href="https://eureka-one.vercel.app/recorridos-virtuales-360o-para-inmobiliarias/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eureka-one.vercel.app/recorridos-virtuales-360o-para-inmobiliarias/</link>
+	<atom:link href="/recorridos-virtuales-360o-para-inmobiliarias/feed/" rel="self" type="application/rss+xml" />
+	<link>/recorridos-virtuales-360o-para-inmobiliarias/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Wed, 03 Feb 2021 21:27:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Inbound Marketing &#8211; ECrew</title>
-	<atom:link href="https://eureka-one.vercel.app/category/inbound-marketing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eureka-one.vercel.app/</link>
+	<atom:link href="/category/inbound-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Wed, 03 Feb 2021 21:19:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://eureka-one.vercel.app/wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
+	<url>/wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
 	<title>Inbound Marketing &#8211; ECrew</title>
-	<link>https://eureka-one.vercel.app/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Lead management, gestión clave en la estrategia de inbound marketing</title>
-		<link>https://eureka-one.vercel.app/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/</link>
-					<comments>https://eureka-one.vercel.app/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/#respond</comments>
+		<link>/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/</link>
+					<comments>/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Aug 2020 17:00:37 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<guid isPermaLink="false">https://eurekacrew.com/?p=2823</guid>
 
 					<description><![CDATA[<p>Una base de datos optimizada permitirá la eficiencia de los recursos disponibles. La gestión de leads o lead management consiste en el análisis y conjunto de acciones relacionadas a los leads captados, sobre todo aquellos obtenidos a partir de una estrategia digital. Este proceso permite la filtración de clientes potenciales para continuar con el mapeo [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://eureka-one.vercel.app/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/">Lead management, gestión clave en la estrategia de inbound marketing</a> appeared first on <a rel="nofollow" href="https://eureka-one.vercel.app/">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/">Lead management, gestión clave en la estrategia de inbound marketing</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2823" class="elementor elementor-2823" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -90,7 +90,7 @@
 						<div class="elementor-element elementor-element-3c8ee81 elementor-widget elementor-widget-image" data-id="3c8ee81" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="683" src="https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads2-1024x683.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads2-1024x683.jpg 1024w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads2-300x200.jpg 300w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads2-768x512.jpg 768w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads2.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="683" src="/wp-content/uploads/2020/08/leads2-1024x683.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2020/08/leads2-1024x683.jpg 1024w, /wp-content/uploads/2020/08/leads2-300x200.jpg 300w, /wp-content/uploads/2020/08/leads2-768x512.jpg 768w, /wp-content/uploads/2020/08/leads2.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -151,7 +151,7 @@
 						<div class="elementor-element elementor-element-ee13c2a elementor-widget elementor-widget-image" data-id="ee13c2a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="683" src="https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads3-1024x683.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads3-1024x683.jpg 1024w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads3-300x200.jpg 300w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads3-768x512.jpg 768w, https://eureka-one.vercel.app/wp-content/uploads/2020/08/leads3.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="683" src="/wp-content/uploads/2020/08/leads3-1024x683.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2020/08/leads3-1024x683.jpg 1024w, /wp-content/uploads/2020/08/leads3-300x200.jpg 300w, /wp-content/uploads/2020/08/leads3-768x512.jpg 768w, /wp-content/uploads/2020/08/leads3.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -163,10 +163,10 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://eureka-one.vercel.app/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/">Lead management, gestión clave en la estrategia de inbound marketing</a> appeared first on <a rel="nofollow" href="https://eureka-one.vercel.app/">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/">Lead management, gestión clave en la estrategia de inbound marketing</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eureka-one.vercel.app/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/feed/</wfw:commentRss>
+					<wfw:commentRss>/lead-management-gestion-clave-en-la-estrategia-de-inbound-marketing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
