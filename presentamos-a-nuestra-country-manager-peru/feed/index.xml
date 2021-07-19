@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Presentamos a nuestra Country Manager &#8211; Perú	</title>
-	<atom:link href="/presentamos-a-nuestra-country-manager-peru/feed/" rel="self" type="application/rss+xml" />
-	<link>/presentamos-a-nuestra-country-manager-peru/</link>
+	<atom:link href="https:///presentamos-a-nuestra-country-manager-peru/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///presentamos-a-nuestra-country-manager-peru/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Tue, 09 Feb 2021 20:54:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
 </channel>
 </rss>

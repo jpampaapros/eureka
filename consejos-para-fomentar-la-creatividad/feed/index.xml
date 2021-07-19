@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Consejos para fomentar la creatividad	</title>
-	<atom:link href="/consejos-para-fomentar-la-creatividad/feed/" rel="self" type="application/rss+xml" />
-	<link>/consejos-para-fomentar-la-creatividad/</link>
+	<atom:link href="https:///consejos-para-fomentar-la-creatividad/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///consejos-para-fomentar-la-creatividad/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Fri, 18 Dec 2020 16:40:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
 </channel>
 </rss>

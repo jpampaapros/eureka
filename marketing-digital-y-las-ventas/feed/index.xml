@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Marketing Digital y las Ventas	</title>
-	<atom:link href="/marketing-digital-y-las-ventas/feed/" rel="self" type="application/rss+xml" />
-	<link>/marketing-digital-y-las-ventas/</link>
+	<atom:link href="https:///marketing-digital-y-las-ventas/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///marketing-digital-y-las-ventas/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Fri, 02 Oct 2020 16:05:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
 </channel>
 </rss>
