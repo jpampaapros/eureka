@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Branding &#8211; ECrew</title>
-	<atom:link href="https:///portfolio-category/branding/feed/" rel="self" type="application/rss+xml" />
-	<link>https:///</link>
+	<atom:link href="/portfolio-category/branding/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Thu, 01 Jul 2021 22:58:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.4.6</generator>
 
 <image>
-	<url>https:///wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
+	<url>/wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
 	<title>Branding &#8211; ECrew</title>
-	<link>https:///</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fidel&#038;Clorinda</title>
-		<link>https:///portfolio/fidelyclorinda/</link>
+		<link>/portfolio/fidelyclorinda/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 21:10:43 +0000</pubDate>
-				<guid isPermaLink="false">https:///?post_type=portfolio&#038;p=8535</guid>
+				<guid isPermaLink="false">/?post_type=portfolio&#038;p=8535</guid>
 
 					<description><![CDATA[<p>Fidel&#038;Clorinda Proyecto Gastronómico Branding, UX/UI, Social media, Desarrollo de contenido. Cliente: Fidel&#038;Clorinda 2021 Fidel&#038;Clorinda Fidel &#038; Clorinda es un restaurante tipo Dark Kitchen, es decir, solo atiende a través de pedidos por delivery. Su propuesta culinaria se basa en platos tradicionales americanos, hechos con insumos nacionales, un toque de peruanidad y ahumados lentamente con leños [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https:///portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8535" class="elementor elementor-8535" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -163,7 +163,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="403" src="https:///wp-content/uploads/2021/06/Banner.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Banner.png 1236w, https:///wp-content/uploads/2021/06/Banner-300x98.png 300w, https:///wp-content/uploads/2021/06/Banner-768x250.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="403" src="/wp-content/uploads/2021/06/Banner.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Banner.png 1236w, /wp-content/uploads/2021/06/Banner-300x98.png 300w, /wp-content/uploads/2021/06/Banner-768x250.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -189,7 +189,7 @@
 				<div class="elementor-element elementor-element-bd60ff0 elementor-widget elementor-widget-image" data-id="bd60ff0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="647" height="3" src="https:///wp-content/uploads/2021/06/Separador.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/06/Separador.png 647w, https:///wp-content/uploads/2021/06/Separador-300x1.png 300w, https:///wp-content/uploads/2021/06/Separador-440x3.png 440w" sizes="(max-width: 647px) 100vw, 647px" />														</div>
+												<img width="647" height="3" src="/wp-content/uploads/2021/06/Separador.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/Separador.png 647w, /wp-content/uploads/2021/06/Separador-300x1.png 300w, /wp-content/uploads/2021/06/Separador-440x3.png 440w" sizes="(max-width: 647px) 100vw, 647px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-45e8d5b elementor-widget elementor-widget-heading" data-id="45e8d5b" data-element_type="widget" data-widget_type="heading.default">
@@ -206,7 +206,7 @@
 						<div class="elementor-element elementor-element-e6a497d elementor-widget elementor-widget-image" data-id="e6a497d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="465" height="275" src="https:///wp-content/uploads/2021/06/Logo.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Logo.png 465w, https:///wp-content/uploads/2021/06/Logo-300x177.png 300w" sizes="(max-width: 465px) 100vw, 465px" />														</div>
+												<img width="465" height="275" src="/wp-content/uploads/2021/06/Logo.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Logo.png 465w, /wp-content/uploads/2021/06/Logo-300x177.png 300w" sizes="(max-width: 465px) 100vw, 465px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -224,7 +224,7 @@
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="400" src="https:///wp-content/uploads/2021/06/Proceso.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Proceso.png 1236w, https:///wp-content/uploads/2021/06/Proceso-300x97.png 300w, https:///wp-content/uploads/2021/06/Proceso-768x249.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="400" src="/wp-content/uploads/2021/06/Proceso.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Proceso.png 1236w, /wp-content/uploads/2021/06/Proceso-300x97.png 300w, /wp-content/uploads/2021/06/Proceso-768x249.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -242,7 +242,7 @@
 						<div class="elementor-element elementor-element-c63c85f elementor-widget elementor-widget-image" data-id="c63c85f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1276" height="299" src="https:///wp-content/uploads/2021/06/Marcha-blanca.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Marcha-blanca.png 1276w, https:///wp-content/uploads/2021/06/Marcha-blanca-300x70.png 300w, https:///wp-content/uploads/2021/06/Marcha-blanca-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
+												<img width="1276" height="299" src="/wp-content/uploads/2021/06/Marcha-blanca.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Marcha-blanca.png 1276w, /wp-content/uploads/2021/06/Marcha-blanca-300x70.png 300w, /wp-content/uploads/2021/06/Marcha-blanca-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -260,7 +260,7 @@
 						<div class="elementor-element elementor-element-d58d655 elementor-widget elementor-widget-image" data-id="d58d655" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="487" src="https:///wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png 1236w, https:///wp-content/uploads/2021/06/Etapas-marcha-blanca-1-300x118.png 300w, https:///wp-content/uploads/2021/06/Etapas-marcha-blanca-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="487" src="/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png 1236w, /wp-content/uploads/2021/06/Etapas-marcha-blanca-1-300x118.png 300w, /wp-content/uploads/2021/06/Etapas-marcha-blanca-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -294,7 +294,7 @@
 						<div class="elementor-element elementor-element-beb2ced elementor-widget elementor-widget-image" data-id="beb2ced" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="4" height="221" src="https:///wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
+												<img width="4" height="221" src="/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -328,7 +328,7 @@
 						<div class="elementor-element elementor-element-970707c elementor-widget elementor-widget-image" data-id="970707c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="1313" src="https:///wp-content/uploads/2021/06/lookandfeel.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/06/lookandfeel.png 1236w, https:///wp-content/uploads/2021/06/lookandfeel-282x300.png 282w, https:///wp-content/uploads/2021/06/lookandfeel-768x816.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="1313" src="/wp-content/uploads/2021/06/lookandfeel.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/lookandfeel.png 1236w, /wp-content/uploads/2021/06/lookandfeel-282x300.png 282w, /wp-content/uploads/2021/06/lookandfeel-768x816.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -346,7 +346,7 @@
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="502" src="https:///wp-content/uploads/2021/06/resultados-2.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/resultados-2.png 1236w, https:///wp-content/uploads/2021/06/resultados-2-300x122.png 300w, https:///wp-content/uploads/2021/06/resultados-2-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="502" src="/wp-content/uploads/2021/06/resultados-2.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/resultados-2.png 1236w, /wp-content/uploads/2021/06/resultados-2-300x122.png 300w, /wp-content/uploads/2021/06/resultados-2-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -364,7 +364,7 @@
 						<div class="elementor-element elementor-element-0a7fa87 elementor-widget elementor-widget-image" data-id="0a7fa87" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1276" height="299" src="https:///wp-content/uploads/2021/06/Lanzamiento.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/Lanzamiento.png 1276w, https:///wp-content/uploads/2021/06/Lanzamiento-300x70.png 300w, https:///wp-content/uploads/2021/06/Lanzamiento-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
+												<img width="1276" height="299" src="/wp-content/uploads/2021/06/Lanzamiento.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Lanzamiento.png 1276w, /wp-content/uploads/2021/06/Lanzamiento-300x70.png 300w, /wp-content/uploads/2021/06/Lanzamiento-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -382,7 +382,7 @@
 						<div class="elementor-element elementor-element-a7a1631 elementor-widget elementor-widget-image" data-id="a7a1631" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="487" src="https:///wp-content/uploads/2021/06/etapas-1.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/etapas-1.png 1236w, https:///wp-content/uploads/2021/06/etapas-1-300x118.png 300w, https:///wp-content/uploads/2021/06/etapas-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="487" src="/wp-content/uploads/2021/06/etapas-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/etapas-1.png 1236w, /wp-content/uploads/2021/06/etapas-1-300x118.png 300w, /wp-content/uploads/2021/06/etapas-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -416,7 +416,7 @@
 						<div class="elementor-element elementor-element-af64360 elementor-widget elementor-widget-image" data-id="af64360" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="4" height="221" src="https:///wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
+												<img width="4" height="221" src="/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -450,7 +450,7 @@
 						<div class="elementor-element elementor-element-0186d43 elementor-widget elementor-widget-image" data-id="0186d43" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="1348" src="https:///wp-content/uploads/2021/06/lookandfeel-1.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/06/lookandfeel-1.png 1236w, https:///wp-content/uploads/2021/06/lookandfeel-1-275x300.png 275w, https:///wp-content/uploads/2021/06/lookandfeel-1-768x838.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="1348" src="/wp-content/uploads/2021/06/lookandfeel-1.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/lookandfeel-1.png 1236w, /wp-content/uploads/2021/06/lookandfeel-1-275x300.png 275w, /wp-content/uploads/2021/06/lookandfeel-1-768x838.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -468,7 +468,7 @@
 						<div class="elementor-element elementor-element-e929982 elementor-widget elementor-widget-image" data-id="e929982" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="2241" src="https:///wp-content/uploads/2021/06/página-web-2.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/06/página-web-2.png 1236w, https:///wp-content/uploads/2021/06/página-web-2-165x300.png 165w, https:///wp-content/uploads/2021/06/página-web-2-768x1392.png 768w, https:///wp-content/uploads/2021/06/página-web-2-847x1536.png 847w, https:///wp-content/uploads/2021/06/página-web-2-1130x2048.png 1130w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="2241" src="/wp-content/uploads/2021/06/página-web-2.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/página-web-2.png 1236w, /wp-content/uploads/2021/06/página-web-2-165x300.png 165w, /wp-content/uploads/2021/06/página-web-2-768x1392.png 768w, /wp-content/uploads/2021/06/página-web-2-847x1536.png 847w, /wp-content/uploads/2021/06/página-web-2-1130x2048.png 1130w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -486,7 +486,7 @@
 						<div class="elementor-element elementor-element-90c0070 elementor-widget elementor-widget-image" data-id="90c0070" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="502" src="https:///wp-content/uploads/2021/06/resultados-3.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2021/06/resultados-3.png 1236w, https:///wp-content/uploads/2021/06/resultados-3-300x122.png 300w, https:///wp-content/uploads/2021/06/resultados-3-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="502" src="/wp-content/uploads/2021/06/resultados-3.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/resultados-3.png 1236w, /wp-content/uploads/2021/06/resultados-3-300x122.png 300w, /wp-content/uploads/2021/06/resultados-3-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -520,7 +520,7 @@
 						<div class="elementor-element elementor-element-05b1ef3 elementor-widget elementor-widget-image" data-id="05b1ef3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="https:///wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-2-6.png 346w, https:///wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -544,7 +544,7 @@
 						<div class="elementor-element elementor-element-2522f7e elementor-widget elementor-widget-image" data-id="2522f7e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="https:///wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-3-6.png 693w, https:///wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -603,7 +603,7 @@
 						<div class="elementor-element elementor-element-7d3c00b elementor-widget elementor-widget-image" data-id="7d3c00b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="https:///wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-9-3.png 590w, https:///wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -615,7 +615,7 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https:///portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -623,14 +623,14 @@
 			</item>
 		<item>
 		<title>Proyecto Arequipa</title>
-		<link>https:///portfolio/proyecto-arequipa/</link>
+		<link>/portfolio/proyecto-arequipa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 07 Sep 2020 15:41:18 +0000</pubDate>
 				<guid isPermaLink="false">https://eurekacrew.com/?post_type=portfolio&#038;p=3951</guid>
 
 					<description><![CDATA[<p>Proyecto Arequipa Proyecto Inmobiliario Branding, Desarrollo de Identidad visual. Timeline: 4 semanas Cliente: Actual Inmobiliaria 2020 Arequipa Arequipa es un proyecto inmobiliario en el que quisimos proyectar el concepto de la unión del diseño arquitectónico con finos acabados de corte industrial, reflejando así una forma de vivir más sostenible y moderna que derriba paradigmas. Actual [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https:///portfolio/proyecto-arequipa/">Proyecto Arequipa</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="/portfolio/proyecto-arequipa/">Proyecto Arequipa</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3951" class="elementor elementor-3951" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -763,7 +763,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1200" height="696" src="https:///wp-content/uploads/2020/09/aqp1.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp1.png 1200w, https:///wp-content/uploads/2020/09/aqp1-300x174.png 300w, https:///wp-content/uploads/2020/09/aqp1-1024x594.png 1024w, https:///wp-content/uploads/2020/09/aqp1-768x445.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" />														</div>
+												<img width="1200" height="696" src="/wp-content/uploads/2020/09/aqp1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp1.png 1200w, /wp-content/uploads/2020/09/aqp1-300x174.png 300w, /wp-content/uploads/2020/09/aqp1-1024x594.png 1024w, /wp-content/uploads/2020/09/aqp1-768x445.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -843,7 +843,7 @@
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1558" height="467" src="https:///wp-content/uploads/2020/09/aqp2.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp2.jpg 1558w, https:///wp-content/uploads/2020/09/aqp2-300x90.jpg 300w, https:///wp-content/uploads/2020/09/aqp2-1024x307.jpg 1024w, https:///wp-content/uploads/2020/09/aqp2-768x230.jpg 768w, https:///wp-content/uploads/2020/09/aqp2-1536x460.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
+												<img width="1558" height="467" src="/wp-content/uploads/2020/09/aqp2.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp2.jpg 1558w, /wp-content/uploads/2020/09/aqp2-300x90.jpg 300w, /wp-content/uploads/2020/09/aqp2-1024x307.jpg 1024w, /wp-content/uploads/2020/09/aqp2-768x230.jpg 768w, /wp-content/uploads/2020/09/aqp2-1536x460.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -873,7 +873,7 @@
 						<div class="elementor-element elementor-element-b316dec elementor-widget elementor-widget-image" data-id="b316dec" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="900" height="1013" src="https:///wp-content/uploads/2020/09/aqp7.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp7.png 900w, https:///wp-content/uploads/2020/09/aqp7-267x300.png 267w, https:///wp-content/uploads/2020/09/aqp7-768x864.png 768w" sizes="(max-width: 900px) 100vw, 900px" />														</div>
+												<img width="900" height="1013" src="/wp-content/uploads/2020/09/aqp7.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp7.png 900w, /wp-content/uploads/2020/09/aqp7-267x300.png 267w, /wp-content/uploads/2020/09/aqp7-768x864.png 768w" sizes="(max-width: 900px) 100vw, 900px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -911,43 +911,43 @@
 						<div class="elementor-element elementor-element-c1467a3 elementor-widget elementor-widget-image" data-id="c1467a3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1556" height="716" src="https:///wp-content/uploads/2020/09/aqp3-1.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp3-1.jpg 1556w, https:///wp-content/uploads/2020/09/aqp3-1-300x138.jpg 300w, https:///wp-content/uploads/2020/09/aqp3-1-1024x471.jpg 1024w, https:///wp-content/uploads/2020/09/aqp3-1-768x353.jpg 768w, https:///wp-content/uploads/2020/09/aqp3-1-1536x707.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
+												<img width="1556" height="716" src="/wp-content/uploads/2020/09/aqp3-1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp3-1.jpg 1556w, /wp-content/uploads/2020/09/aqp3-1-300x138.jpg 300w, /wp-content/uploads/2020/09/aqp3-1-1024x471.jpg 1024w, /wp-content/uploads/2020/09/aqp3-1-768x353.jpg 768w, /wp-content/uploads/2020/09/aqp3-1-1536x707.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b51cf14 elementor-widget elementor-widget-image" data-id="b51cf14" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="1093" src="https:///wp-content/uploads/2020/09/aqp9.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp9.jpg 1561w, https:///wp-content/uploads/2020/09/aqp9-300x210.jpg 300w, https:///wp-content/uploads/2020/09/aqp9-1024x717.jpg 1024w, https:///wp-content/uploads/2020/09/aqp9-768x538.jpg 768w, https:///wp-content/uploads/2020/09/aqp9-1536x1075.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="1093" src="/wp-content/uploads/2020/09/aqp9.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp9.jpg 1561w, /wp-content/uploads/2020/09/aqp9-300x210.jpg 300w, /wp-content/uploads/2020/09/aqp9-1024x717.jpg 1024w, /wp-content/uploads/2020/09/aqp9-768x538.jpg 768w, /wp-content/uploads/2020/09/aqp9-1536x1075.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0d8fba2 elementor-widget elementor-widget-image" data-id="0d8fba2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="1025" src="https:///wp-content/uploads/2020/09/aqp10.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp10.jpg 1561w, https:///wp-content/uploads/2020/09/aqp10-300x197.jpg 300w, https:///wp-content/uploads/2020/09/aqp10-1024x672.jpg 1024w, https:///wp-content/uploads/2020/09/aqp10-768x504.jpg 768w, https:///wp-content/uploads/2020/09/aqp10-1536x1009.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="1025" src="/wp-content/uploads/2020/09/aqp10.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp10.jpg 1561w, /wp-content/uploads/2020/09/aqp10-300x197.jpg 300w, /wp-content/uploads/2020/09/aqp10-1024x672.jpg 1024w, /wp-content/uploads/2020/09/aqp10-768x504.jpg 768w, /wp-content/uploads/2020/09/aqp10-1536x1009.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b9c66da elementor-widget elementor-widget-image" data-id="b9c66da" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="1645" src="https:///wp-content/uploads/2020/09/aqp11.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp11.jpg 1561w, https:///wp-content/uploads/2020/09/aqp11-285x300.jpg 285w, https:///wp-content/uploads/2020/09/aqp11-972x1024.jpg 972w, https:///wp-content/uploads/2020/09/aqp11-768x809.jpg 768w, https:///wp-content/uploads/2020/09/aqp11-1458x1536.jpg 1458w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="1645" src="/wp-content/uploads/2020/09/aqp11.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp11.jpg 1561w, /wp-content/uploads/2020/09/aqp11-285x300.jpg 285w, /wp-content/uploads/2020/09/aqp11-972x1024.jpg 972w, /wp-content/uploads/2020/09/aqp11-768x809.jpg 768w, /wp-content/uploads/2020/09/aqp11-1458x1536.jpg 1458w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-804cbea elementor-widget elementor-widget-image" data-id="804cbea" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="715" src="https:///wp-content/uploads/2020/09/aqp12.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp12.jpg 1561w, https:///wp-content/uploads/2020/09/aqp12-300x137.jpg 300w, https:///wp-content/uploads/2020/09/aqp12-1024x469.jpg 1024w, https:///wp-content/uploads/2020/09/aqp12-768x352.jpg 768w, https:///wp-content/uploads/2020/09/aqp12-1536x704.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="715" src="/wp-content/uploads/2020/09/aqp12.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp12.jpg 1561w, /wp-content/uploads/2020/09/aqp12-300x137.jpg 300w, /wp-content/uploads/2020/09/aqp12-1024x469.jpg 1024w, /wp-content/uploads/2020/09/aqp12-768x352.jpg 768w, /wp-content/uploads/2020/09/aqp12-1536x704.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-012c5ea elementor-widget elementor-widget-image" data-id="012c5ea" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="1038" src="https:///wp-content/uploads/2020/09/aqp13.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp13.jpg 1561w, https:///wp-content/uploads/2020/09/aqp13-300x199.jpg 300w, https:///wp-content/uploads/2020/09/aqp13-1024x681.jpg 1024w, https:///wp-content/uploads/2020/09/aqp13-768x511.jpg 768w, https:///wp-content/uploads/2020/09/aqp13-1536x1021.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="1038" src="/wp-content/uploads/2020/09/aqp13.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp13.jpg 1561w, /wp-content/uploads/2020/09/aqp13-300x199.jpg 300w, /wp-content/uploads/2020/09/aqp13-1024x681.jpg 1024w, /wp-content/uploads/2020/09/aqp13-768x511.jpg 768w, /wp-content/uploads/2020/09/aqp13-1536x1021.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-2a2f166 elementor-widget elementor-widget-image" data-id="2a2f166" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="865" src="https:///wp-content/uploads/2020/09/aqp15.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/09/aqp15.png 1561w, https:///wp-content/uploads/2020/09/aqp15-300x166.png 300w, https:///wp-content/uploads/2020/09/aqp15-1024x567.png 1024w, https:///wp-content/uploads/2020/09/aqp15-768x426.png 768w, https:///wp-content/uploads/2020/09/aqp15-1536x851.png 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="865" src="/wp-content/uploads/2020/09/aqp15.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/aqp15.png 1561w, /wp-content/uploads/2020/09/aqp15-300x166.png 300w, /wp-content/uploads/2020/09/aqp15-1024x567.png 1024w, /wp-content/uploads/2020/09/aqp15-768x426.png 768w, /wp-content/uploads/2020/09/aqp15-1536x851.png 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -981,7 +981,7 @@
 						<div class="elementor-element elementor-element-ac25058 elementor-widget elementor-widget-image" data-id="ac25058" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="https:///wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-2-6.png 346w, https:///wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1005,7 +1005,7 @@
 						<div class="elementor-element elementor-element-10d212b elementor-widget elementor-widget-image" data-id="10d212b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="https:///wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-3-6.png 693w, https:///wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1064,7 +1064,7 @@
 						<div class="elementor-element elementor-element-30fe13a elementor-widget elementor-widget-image" data-id="30fe13a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="https:///wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-9-3.png 590w, https:///wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1076,7 +1076,7 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https:///portfolio/proyecto-arequipa/">Proyecto Arequipa</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="/portfolio/proyecto-arequipa/">Proyecto Arequipa</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1084,14 +1084,14 @@
 			</item>
 		<item>
 		<title>Atom</title>
-		<link>https:///portfolio/atom-2/</link>
+		<link>/portfolio/atom-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 04 Aug 2020 23:59:24 +0000</pubDate>
 				<guid isPermaLink="false">https://eurekacrew.com/?post_type=portfolio&#038;p=2584</guid>
 
 					<description><![CDATA[<p>Atom Proyecto Inmobiliario Branding, Desarrollo de Identidad visual. Timeline: 4 semanas Cliente: Avitar Inmobiliaria 2020 El punto de equilibrio, a un paso de Chacarilla Es un proyecto inmobiliario que nace bajo el concepto de poder movernos a partir de un centro, ubicando un eje en nuestras vidas que nos permitan establecer distintas direcciones y caminos [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https:///portfolio/atom-2/">Atom</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="/portfolio/atom-2/">Atom</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2584" class="elementor elementor-2584" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -1218,7 +1218,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1555" height="716" src="https:///wp-content/uploads/2020/08/atom5.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom5.jpg 1555w, https:///wp-content/uploads/2020/08/atom5-1080x497.jpg 1080w, https:///wp-content/uploads/2020/08/atom5-300x138.jpg 300w, https:///wp-content/uploads/2020/08/atom5-1024x472.jpg 1024w, https:///wp-content/uploads/2020/08/atom5-768x354.jpg 768w, https:///wp-content/uploads/2020/08/atom5-1536x707.jpg 1536w" sizes="(max-width: 1555px) 100vw, 1555px" />														</div>
+												<img width="1555" height="716" src="/wp-content/uploads/2020/08/atom5.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom5.jpg 1555w, /wp-content/uploads/2020/08/atom5-1080x497.jpg 1080w, /wp-content/uploads/2020/08/atom5-300x138.jpg 300w, /wp-content/uploads/2020/08/atom5-1024x472.jpg 1024w, /wp-content/uploads/2020/08/atom5-768x354.jpg 768w, /wp-content/uploads/2020/08/atom5-1536x707.jpg 1536w" sizes="(max-width: 1555px) 100vw, 1555px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1275,7 +1275,7 @@
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1560" height="732" src="https:///wp-content/uploads/2020/08/alter25_img9.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/alter25_img9.png 1560w, https:///wp-content/uploads/2020/08/alter25_img9-1080x507.png 1080w, https:///wp-content/uploads/2020/08/alter25_img9-300x141.png 300w, https:///wp-content/uploads/2020/08/alter25_img9-1024x480.png 1024w, https:///wp-content/uploads/2020/08/alter25_img9-768x360.png 768w, https:///wp-content/uploads/2020/08/alter25_img9-1536x721.png 1536w" sizes="(max-width: 1560px) 100vw, 1560px" />														</div>
+												<img width="1560" height="732" src="/wp-content/uploads/2020/08/alter25_img9.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/alter25_img9.png 1560w, /wp-content/uploads/2020/08/alter25_img9-1080x507.png 1080w, /wp-content/uploads/2020/08/alter25_img9-300x141.png 300w, /wp-content/uploads/2020/08/alter25_img9-1024x480.png 1024w, /wp-content/uploads/2020/08/alter25_img9-768x360.png 768w, /wp-content/uploads/2020/08/alter25_img9-1536x721.png 1536w" sizes="(max-width: 1560px) 100vw, 1560px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1327,7 +1327,7 @@
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1552" height="679" src="https:///wp-content/uploads/2020/08/atom10.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom10.jpg 1552w, https:///wp-content/uploads/2020/08/atom10-1080x473.jpg 1080w, https:///wp-content/uploads/2020/08/atom10-300x131.jpg 300w, https:///wp-content/uploads/2020/08/atom10-1024x448.jpg 1024w, https:///wp-content/uploads/2020/08/atom10-768x336.jpg 768w, https:///wp-content/uploads/2020/08/atom10-1536x672.jpg 1536w" sizes="(max-width: 1552px) 100vw, 1552px" />														</div>
+												<img width="1552" height="679" src="/wp-content/uploads/2020/08/atom10.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom10.jpg 1552w, /wp-content/uploads/2020/08/atom10-1080x473.jpg 1080w, /wp-content/uploads/2020/08/atom10-300x131.jpg 300w, /wp-content/uploads/2020/08/atom10-1024x448.jpg 1024w, /wp-content/uploads/2020/08/atom10-768x336.jpg 768w, /wp-content/uploads/2020/08/atom10-1536x672.jpg 1536w" sizes="(max-width: 1552px) 100vw, 1552px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1345,7 +1345,7 @@
 						<div class="elementor-element elementor-element-d14f2ce elementor-widget elementor-widget-image" data-id="d14f2ce" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1556" height="676" src="https:///wp-content/uploads/2020/08/atom11.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom11.jpg 1556w, https:///wp-content/uploads/2020/08/atom11-1080x469.jpg 1080w, https:///wp-content/uploads/2020/08/atom11-300x130.jpg 300w, https:///wp-content/uploads/2020/08/atom11-1024x445.jpg 1024w, https:///wp-content/uploads/2020/08/atom11-768x334.jpg 768w, https:///wp-content/uploads/2020/08/atom11-1536x667.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
+												<img width="1556" height="676" src="/wp-content/uploads/2020/08/atom11.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom11.jpg 1556w, /wp-content/uploads/2020/08/atom11-1080x469.jpg 1080w, /wp-content/uploads/2020/08/atom11-300x130.jpg 300w, /wp-content/uploads/2020/08/atom11-1024x445.jpg 1024w, /wp-content/uploads/2020/08/atom11-768x334.jpg 768w, /wp-content/uploads/2020/08/atom11-1536x667.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1363,7 +1363,7 @@
 						<div class="elementor-element elementor-element-e34977c elementor-widget elementor-widget-image" data-id="e34977c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1559" height="929" src="https:///wp-content/uploads/2020/08/atom1.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom1.jpg 1559w, https:///wp-content/uploads/2020/08/atom1-1080x644.jpg 1080w, https:///wp-content/uploads/2020/08/atom1-300x179.jpg 300w, https:///wp-content/uploads/2020/08/atom1-1024x610.jpg 1024w, https:///wp-content/uploads/2020/08/atom1-768x458.jpg 768w, https:///wp-content/uploads/2020/08/atom1-1536x915.jpg 1536w" sizes="(max-width: 1559px) 100vw, 1559px" />														</div>
+												<img width="1559" height="929" src="/wp-content/uploads/2020/08/atom1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom1.jpg 1559w, /wp-content/uploads/2020/08/atom1-1080x644.jpg 1080w, /wp-content/uploads/2020/08/atom1-300x179.jpg 300w, /wp-content/uploads/2020/08/atom1-1024x610.jpg 1024w, /wp-content/uploads/2020/08/atom1-768x458.jpg 768w, /wp-content/uploads/2020/08/atom1-1536x915.jpg 1536w" sizes="(max-width: 1559px) 100vw, 1559px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1381,7 +1381,7 @@
 						<div class="elementor-element elementor-element-8e0b26f elementor-widget elementor-widget-image" data-id="8e0b26f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1559" height="985" src="https:///wp-content/uploads/2020/08/atom2.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom2.jpg 1559w, https:///wp-content/uploads/2020/08/atom2-1080x682.jpg 1080w, https:///wp-content/uploads/2020/08/atom2-300x190.jpg 300w, https:///wp-content/uploads/2020/08/atom2-1024x647.jpg 1024w, https:///wp-content/uploads/2020/08/atom2-768x485.jpg 768w, https:///wp-content/uploads/2020/08/atom2-1536x970.jpg 1536w" sizes="(max-width: 1559px) 100vw, 1559px" />														</div>
+												<img width="1559" height="985" src="/wp-content/uploads/2020/08/atom2.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom2.jpg 1559w, /wp-content/uploads/2020/08/atom2-1080x682.jpg 1080w, /wp-content/uploads/2020/08/atom2-300x190.jpg 300w, /wp-content/uploads/2020/08/atom2-1024x647.jpg 1024w, /wp-content/uploads/2020/08/atom2-768x485.jpg 768w, /wp-content/uploads/2020/08/atom2-1536x970.jpg 1536w" sizes="(max-width: 1559px) 100vw, 1559px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1399,7 +1399,7 @@
 						<div class="elementor-element elementor-element-51eddf6 elementor-widget elementor-widget-image" data-id="51eddf6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1558" height="949" src="https:///wp-content/uploads/2020/08/atom3.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2020/08/atom3.jpg 1558w, https:///wp-content/uploads/2020/08/atom3-1080x658.jpg 1080w, https:///wp-content/uploads/2020/08/atom3-300x183.jpg 300w, https:///wp-content/uploads/2020/08/atom3-1024x624.jpg 1024w, https:///wp-content/uploads/2020/08/atom3-768x468.jpg 768w, https:///wp-content/uploads/2020/08/atom3-1536x936.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
+												<img width="1558" height="949" src="/wp-content/uploads/2020/08/atom3.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/atom3.jpg 1558w, /wp-content/uploads/2020/08/atom3-1080x658.jpg 1080w, /wp-content/uploads/2020/08/atom3-300x183.jpg 300w, /wp-content/uploads/2020/08/atom3-1024x624.jpg 1024w, /wp-content/uploads/2020/08/atom3-768x468.jpg 768w, /wp-content/uploads/2020/08/atom3-1536x936.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1417,7 +1417,7 @@
 						<div class="elementor-element elementor-element-6b6f0aa elementor-widget elementor-widget-image" data-id="6b6f0aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1024" height="335" src="https:///wp-content/uploads/2020/08/atom4-1024x335.jpg" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2020/08/atom4-1024x335.jpg 1024w, https:///wp-content/uploads/2020/08/atom4-1080x353.jpg 1080w, https:///wp-content/uploads/2020/08/atom4-300x98.jpg 300w, https:///wp-content/uploads/2020/08/atom4-768x251.jpg 768w, https:///wp-content/uploads/2020/08/atom4-1536x502.jpg 1536w, https:///wp-content/uploads/2020/08/atom4.jpg 1560w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+												<img width="1024" height="335" src="/wp-content/uploads/2020/08/atom4-1024x335.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2020/08/atom4-1024x335.jpg 1024w, /wp-content/uploads/2020/08/atom4-1080x353.jpg 1080w, /wp-content/uploads/2020/08/atom4-300x98.jpg 300w, /wp-content/uploads/2020/08/atom4-768x251.jpg 768w, /wp-content/uploads/2020/08/atom4-1536x502.jpg 1536w, /wp-content/uploads/2020/08/atom4.jpg 1560w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1451,7 +1451,7 @@
 						<div class="elementor-element elementor-element-95e07d4 elementor-widget elementor-widget-image" data-id="95e07d4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="https:///wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-2-6.png 346w, https:///wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1475,7 +1475,7 @@
 						<div class="elementor-element elementor-element-c95a111 elementor-widget elementor-widget-image" data-id="c95a111" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="https:///wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-3-6.png 693w, https:///wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1534,7 +1534,7 @@
 						<div class="elementor-element elementor-element-7692e40 elementor-widget elementor-widget-image" data-id="7692e40" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="https:///wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-9-3.png 590w, https:///wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1546,7 +1546,7 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https:///portfolio/atom-2/">Atom</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="/portfolio/atom-2/">Atom</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1554,14 +1554,14 @@
 			</item>
 		<item>
 		<title>Alter 25</title>
-		<link>https:///portfolio/alter25/</link>
+		<link>/portfolio/alter25/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 01 Aug 2020 12:19:52 +0000</pubDate>
 				<guid isPermaLink="false">http://inpulse.wgl-demo.net/?post_type=portfolio&#038;p=439</guid>
 
 					<description><![CDATA[<p>Alter 25 Proyecto Inmobiliario Branding, Desarrollo de Identidad visual. Timeline: 4 semanas Cliente: Avitar Inmobiliaria 2020 ALTER 25 Brand Building Es un proyecto inmobiliario que parte del concepto de reinventarnos constantemente, adaptándonos al cambio de una ciudad que no se detiene. Este proyecto está rodeado de la naturaleza y conectado a los mejores centros comerciales, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https:///portfolio/alter25/">Alter 25</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="/portfolio/alter25/">Alter 25</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="439" class="elementor elementor-439" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -1688,7 +1688,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1562" height="716" src="https:///wp-content/uploads/2019/10/alter25-1.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-1.jpg 1562w, https:///wp-content/uploads/2019/10/alter25-1-1080x495.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-1-300x138.jpg 300w, https:///wp-content/uploads/2019/10/alter25-1-1024x469.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-1-768x352.jpg 768w, https:///wp-content/uploads/2019/10/alter25-1-1536x704.jpg 1536w" sizes="(max-width: 1562px) 100vw, 1562px" />														</div>
+												<img width="1562" height="716" src="/wp-content/uploads/2019/10/alter25-1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-1.jpg 1562w, /wp-content/uploads/2019/10/alter25-1-1080x495.jpg 1080w, /wp-content/uploads/2019/10/alter25-1-300x138.jpg 300w, /wp-content/uploads/2019/10/alter25-1-1024x469.jpg 1024w, /wp-content/uploads/2019/10/alter25-1-768x352.jpg 768w, /wp-content/uploads/2019/10/alter25-1-1536x704.jpg 1536w" sizes="(max-width: 1562px) 100vw, 1562px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1736,7 +1736,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-e6a497d elementor-widget elementor-widget-image" data-id="e6a497d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="297" height="338" src="https:///wp-content/uploads/2019/10/logo_alter25.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/logo_alter25.png 297w, https:///wp-content/uploads/2019/10/logo_alter25-264x300.png 264w" sizes="(max-width: 297px) 100vw, 297px" />														</div>
+												<img width="297" height="338" src="/wp-content/uploads/2019/10/logo_alter25.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/logo_alter25.png 297w, /wp-content/uploads/2019/10/logo_alter25-264x300.png 264w" sizes="(max-width: 297px) 100vw, 297px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1754,7 +1754,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1552" height="674" src="https:///wp-content/uploads/2019/10/alter25-2.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-2.jpg 1552w, https:///wp-content/uploads/2019/10/alter25-2-1080x469.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-2-300x130.jpg 300w, https:///wp-content/uploads/2019/10/alter25-2-1024x445.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-2-768x334.jpg 768w, https:///wp-content/uploads/2019/10/alter25-2-1536x667.jpg 1536w" sizes="(max-width: 1552px) 100vw, 1552px" />														</div>
+												<img width="1552" height="674" src="/wp-content/uploads/2019/10/alter25-2.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-2.jpg 1552w, /wp-content/uploads/2019/10/alter25-2-1080x469.jpg 1080w, /wp-content/uploads/2019/10/alter25-2-300x130.jpg 300w, /wp-content/uploads/2019/10/alter25-2-1024x445.jpg 1024w, /wp-content/uploads/2019/10/alter25-2-768x334.jpg 768w, /wp-content/uploads/2019/10/alter25-2-1536x667.jpg 1536w" sizes="(max-width: 1552px) 100vw, 1552px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1806,7 +1806,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1551" height="679" src="https:///wp-content/uploads/2019/10/alter25-3.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-3.jpg 1551w, https:///wp-content/uploads/2019/10/alter25-3-1080x473.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-3-300x131.jpg 300w, https:///wp-content/uploads/2019/10/alter25-3-1024x448.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-3-768x336.jpg 768w, https:///wp-content/uploads/2019/10/alter25-3-1536x672.jpg 1536w" sizes="(max-width: 1551px) 100vw, 1551px" />														</div>
+												<img width="1551" height="679" src="/wp-content/uploads/2019/10/alter25-3.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-3.jpg 1551w, /wp-content/uploads/2019/10/alter25-3-1080x473.jpg 1080w, /wp-content/uploads/2019/10/alter25-3-300x131.jpg 300w, /wp-content/uploads/2019/10/alter25-3-1024x448.jpg 1024w, /wp-content/uploads/2019/10/alter25-3-768x336.jpg 768w, /wp-content/uploads/2019/10/alter25-3-1536x672.jpg 1536w" sizes="(max-width: 1551px) 100vw, 1551px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1824,7 +1824,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-d14f2ce elementor-widget elementor-widget-image" data-id="d14f2ce" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1558" height="679" src="https:///wp-content/uploads/2019/10/alter25-4.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-4.jpg 1558w, https:///wp-content/uploads/2019/10/alter25-4-1080x471.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-4-300x131.jpg 300w, https:///wp-content/uploads/2019/10/alter25-4-1024x446.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-4-768x335.jpg 768w, https:///wp-content/uploads/2019/10/alter25-4-1536x669.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
+												<img width="1558" height="679" src="/wp-content/uploads/2019/10/alter25-4.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-4.jpg 1558w, /wp-content/uploads/2019/10/alter25-4-1080x471.jpg 1080w, /wp-content/uploads/2019/10/alter25-4-300x131.jpg 300w, /wp-content/uploads/2019/10/alter25-4-1024x446.jpg 1024w, /wp-content/uploads/2019/10/alter25-4-768x335.jpg 768w, /wp-content/uploads/2019/10/alter25-4-1536x669.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1842,7 +1842,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-8e0b26f elementor-widget elementor-widget-image" data-id="8e0b26f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1557" height="948" src="https:///wp-content/uploads/2019/10/alter25-5.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-5.jpg 1557w, https:///wp-content/uploads/2019/10/alter25-5-1080x658.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-5-300x183.jpg 300w, https:///wp-content/uploads/2019/10/alter25-5-1024x623.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-5-768x468.jpg 768w, https:///wp-content/uploads/2019/10/alter25-5-1536x935.jpg 1536w" sizes="(max-width: 1557px) 100vw, 1557px" />														</div>
+												<img width="1557" height="948" src="/wp-content/uploads/2019/10/alter25-5.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-5.jpg 1557w, /wp-content/uploads/2019/10/alter25-5-1080x658.jpg 1080w, /wp-content/uploads/2019/10/alter25-5-300x183.jpg 300w, /wp-content/uploads/2019/10/alter25-5-1024x623.jpg 1024w, /wp-content/uploads/2019/10/alter25-5-768x468.jpg 768w, /wp-content/uploads/2019/10/alter25-5-1536x935.jpg 1536w" sizes="(max-width: 1557px) 100vw, 1557px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1860,7 +1860,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-51eddf6 elementor-widget elementor-widget-image" data-id="51eddf6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1553" height="1198" src="https:///wp-content/uploads/2019/10/alter25-6.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-6.jpg 1553w, https:///wp-content/uploads/2019/10/alter25-6-1080x833.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-6-300x231.jpg 300w, https:///wp-content/uploads/2019/10/alter25-6-1024x790.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-6-768x592.jpg 768w, https:///wp-content/uploads/2019/10/alter25-6-1536x1185.jpg 1536w" sizes="(max-width: 1553px) 100vw, 1553px" />														</div>
+												<img width="1553" height="1198" src="/wp-content/uploads/2019/10/alter25-6.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-6.jpg 1553w, /wp-content/uploads/2019/10/alter25-6-1080x833.jpg 1080w, /wp-content/uploads/2019/10/alter25-6-300x231.jpg 300w, /wp-content/uploads/2019/10/alter25-6-1024x790.jpg 1024w, /wp-content/uploads/2019/10/alter25-6-768x592.jpg 768w, /wp-content/uploads/2019/10/alter25-6-1536x1185.jpg 1536w" sizes="(max-width: 1553px) 100vw, 1553px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1878,7 +1878,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-6b6f0aa elementor-widget elementor-widget-image" data-id="6b6f0aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1557" height="679" src="https:///wp-content/uploads/2019/10/alter25-7.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-7.jpg 1557w, https:///wp-content/uploads/2019/10/alter25-7-1080x471.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-7-300x131.jpg 300w, https:///wp-content/uploads/2019/10/alter25-7-1024x447.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-7-768x335.jpg 768w, https:///wp-content/uploads/2019/10/alter25-7-1536x670.jpg 1536w" sizes="(max-width: 1557px) 100vw, 1557px" />														</div>
+												<img width="1557" height="679" src="/wp-content/uploads/2019/10/alter25-7.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-7.jpg 1557w, /wp-content/uploads/2019/10/alter25-7-1080x471.jpg 1080w, /wp-content/uploads/2019/10/alter25-7-300x131.jpg 300w, /wp-content/uploads/2019/10/alter25-7-1024x447.jpg 1024w, /wp-content/uploads/2019/10/alter25-7-768x335.jpg 768w, /wp-content/uploads/2019/10/alter25-7-1536x670.jpg 1536w" sizes="(max-width: 1557px) 100vw, 1557px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1896,7 +1896,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-c1467a3 elementor-widget elementor-widget-image" data-id="c1467a3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1556" height="933" src="https:///wp-content/uploads/2019/10/alter25-8.jpg" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25-8.jpg 1556w, https:///wp-content/uploads/2019/10/alter25-8-1080x648.jpg 1080w, https:///wp-content/uploads/2019/10/alter25-8-300x180.jpg 300w, https:///wp-content/uploads/2019/10/alter25-8-1024x614.jpg 1024w, https:///wp-content/uploads/2019/10/alter25-8-768x461.jpg 768w, https:///wp-content/uploads/2019/10/alter25-8-1536x921.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
+												<img width="1556" height="933" src="/wp-content/uploads/2019/10/alter25-8.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25-8.jpg 1556w, /wp-content/uploads/2019/10/alter25-8-1080x648.jpg 1080w, /wp-content/uploads/2019/10/alter25-8-300x180.jpg 300w, /wp-content/uploads/2019/10/alter25-8-1024x614.jpg 1024w, /wp-content/uploads/2019/10/alter25-8-768x461.jpg 768w, /wp-content/uploads/2019/10/alter25-8-1536x921.jpg 1536w" sizes="(max-width: 1556px) 100vw, 1556px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1914,7 +1914,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-baddd05 elementor-widget elementor-widget-image" data-id="baddd05" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1555" height="940" src="https:///wp-content/uploads/2019/10/alter25_img8.png" class="attachment-full size-full" alt="" srcset="https:///wp-content/uploads/2019/10/alter25_img8.png 1555w, https:///wp-content/uploads/2019/10/alter25_img8-1080x653.png 1080w, https:///wp-content/uploads/2019/10/alter25_img8-300x181.png 300w, https:///wp-content/uploads/2019/10/alter25_img8-1024x619.png 1024w, https:///wp-content/uploads/2019/10/alter25_img8-768x464.png 768w, https:///wp-content/uploads/2019/10/alter25_img8-1536x929.png 1536w" sizes="(max-width: 1555px) 100vw, 1555px" />														</div>
+												<img width="1555" height="940" src="/wp-content/uploads/2019/10/alter25_img8.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2019/10/alter25_img8.png 1555w, /wp-content/uploads/2019/10/alter25_img8-1080x653.png 1080w, /wp-content/uploads/2019/10/alter25_img8-300x181.png 300w, /wp-content/uploads/2019/10/alter25_img8-1024x619.png 1024w, /wp-content/uploads/2019/10/alter25_img8-768x464.png 768w, /wp-content/uploads/2019/10/alter25_img8-1536x929.png 1536w" sizes="(max-width: 1555px) 100vw, 1555px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1948,7 +1948,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-9571947 elementor-widget elementor-widget-image" data-id="9571947" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="https:///wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-2-6.png 346w, https:///wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1972,7 +1972,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-674a474 elementor-widget elementor-widget-image" data-id="674a474" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="https:///wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-3-6.png 693w, https:///wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2031,7 +2031,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						<div class="elementor-element elementor-element-9d66c49 elementor-widget elementor-widget-image" data-id="9d66c49" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="https:///wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="https:///wp-content/uploads/2021/04/Recurso-9-3.png 590w, https:///wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2043,7 +2043,7 @@ Es un proyecto de 25 pisos ubicado a un paso de “La Aurora”, con una azotea 
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https:///portfolio/alter25/">Alter 25</a> appeared first on <a rel="nofollow" href="https:///">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="/portfolio/alter25/">Alter 25</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
