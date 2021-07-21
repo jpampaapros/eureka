@@ -1,0 +1,155 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://wordpress.eurekacrew.com/test
+Data file = /home2/eurekacrew/wordpress.eurekacrew.com/test/wp-content/themes/bezel-wp/core/admin/data/demo-content.xml
+Widget file = /home2/eurekacrew/wordpress.eurekacrew.com/test/wp-content/themes/bezel-wp/core/admin/data/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Casual
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hoodie
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sweater
+[WARNING] Failed to import product_tag T-shirt
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Jackets
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Casual
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hoodie
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sweater
+[WARNING] Failed to import product_tag T-shirt
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Jackets
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Casual
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hoodie
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sweater
+[WARNING] Failed to import product_tag T-shirt
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Jackets
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Casual
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Hoodie
+[WARNING] Failed to import product_tag Jacket
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sweater
+[WARNING] Failed to import product_tag T-shirt
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Jackets
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - Search Blog - Imported
+Nube de etiquetas - Popular Tags - Imported
+Entradas recientes - No Title - Widget already exists
+
+First Footer Column : 
+
+Texto - No Title - Imported
+
+Second Footer Column : 
+
+Menú de navegación - The Company - Imported
+
+Third Footer Column : 
+
+Menú de navegación - Recent Posts - Imported
+
+Fourth Footer Column : 
+
+Nube de etiquetas - Popular Tags - Imported
+
+
+
+---pt-ocdi/after_import---
+
