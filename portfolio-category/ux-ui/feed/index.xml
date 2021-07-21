@@ -9,8 +9,8 @@
 
 <channel>
 	<title>UX/UI &#8211; ECrew</title>
-	<atom:link href="/portfolio-category/ux-ui/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://https://www.ecrew.agency/portfolio-category/ux-ui/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://www.ecrew.agency/</link>
 	<description>La agencia que se mete de lleno a tu negocio</description>
 	<lastBuildDate>Thu, 01 Jul 2021 22:58:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.4.6</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
+	<url>http://https://www.ecrew.agency/wp-content/uploads/2021/02/cropped-fav-2-32x32.jpg</url>
 	<title>UX/UI &#8211; ECrew</title>
-	<link>/</link>
+	<link>http://https://www.ecrew.agency/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fidel&#038;Clorinda</title>
-		<link>/portfolio/fidelyclorinda/</link>
+		<link>http://https://www.ecrew.agency/portfolio/fidelyclorinda/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 21:10:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio&#038;p=8535</guid>
+				<guid isPermaLink="false">http://ecrew.agency/?post_type=portfolio&#038;p=8535</guid>
 
 					<description><![CDATA[<p>Fidel&#038;Clorinda Proyecto Gastronómico Branding, UX/UI, Social media, Desarrollo de contenido. Cliente: Fidel&#038;Clorinda 2021 Fidel&#038;Clorinda Fidel &#038; Clorinda es un restaurante tipo Dark Kitchen, es decir, solo atiende a través de pedidos por delivery. Su propuesta culinaria se basa en platos tradicionales americanos, hechos con insumos nacionales, un toque de peruanidad y ahumados lentamente con leños [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8535" class="elementor elementor-8535" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -163,7 +163,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="403" src="/wp-content/uploads/2021/06/Banner.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Banner.png 1236w, /wp-content/uploads/2021/06/Banner-300x98.png 300w, /wp-content/uploads/2021/06/Banner-768x250.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="403" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Banner.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Banner.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Banner-300x98.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Banner-768x250.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -189,7 +189,7 @@
 				<div class="elementor-element elementor-element-bd60ff0 elementor-widget elementor-widget-image" data-id="bd60ff0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="647" height="3" src="/wp-content/uploads/2021/06/Separador.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/Separador.png 647w, /wp-content/uploads/2021/06/Separador-300x1.png 300w, /wp-content/uploads/2021/06/Separador-440x3.png 440w" sizes="(max-width: 647px) 100vw, 647px" />														</div>
+												<img width="647" height="3" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador.png 647w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador-300x1.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador-440x3.png 440w" sizes="(max-width: 647px) 100vw, 647px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-45e8d5b elementor-widget elementor-widget-heading" data-id="45e8d5b" data-element_type="widget" data-widget_type="heading.default">
@@ -206,7 +206,7 @@
 						<div class="elementor-element elementor-element-e6a497d elementor-widget elementor-widget-image" data-id="e6a497d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="465" height="275" src="/wp-content/uploads/2021/06/Logo.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Logo.png 465w, /wp-content/uploads/2021/06/Logo-300x177.png 300w" sizes="(max-width: 465px) 100vw, 465px" />														</div>
+												<img width="465" height="275" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Logo.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Logo.png 465w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Logo-300x177.png 300w" sizes="(max-width: 465px) 100vw, 465px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -224,7 +224,7 @@
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="400" src="/wp-content/uploads/2021/06/Proceso.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Proceso.png 1236w, /wp-content/uploads/2021/06/Proceso-300x97.png 300w, /wp-content/uploads/2021/06/Proceso-768x249.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="400" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Proceso.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Proceso.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Proceso-300x97.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Proceso-768x249.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -242,7 +242,7 @@
 						<div class="elementor-element elementor-element-c63c85f elementor-widget elementor-widget-image" data-id="c63c85f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1276" height="299" src="/wp-content/uploads/2021/06/Marcha-blanca.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Marcha-blanca.png 1276w, /wp-content/uploads/2021/06/Marcha-blanca-300x70.png 300w, /wp-content/uploads/2021/06/Marcha-blanca-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
+												<img width="1276" height="299" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Marcha-blanca.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Marcha-blanca.png 1276w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Marcha-blanca-300x70.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Marcha-blanca-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -260,7 +260,7 @@
 						<div class="elementor-element elementor-element-d58d655 elementor-widget elementor-widget-image" data-id="d58d655" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="487" src="/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png 1236w, /wp-content/uploads/2021/06/Etapas-marcha-blanca-1-300x118.png 300w, /wp-content/uploads/2021/06/Etapas-marcha-blanca-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="487" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Etapas-marcha-blanca-1.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Etapas-marcha-blanca-1-300x118.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Etapas-marcha-blanca-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -294,7 +294,7 @@
 						<div class="elementor-element elementor-element-beb2ced elementor-widget elementor-widget-image" data-id="beb2ced" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="4" height="221" src="/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
+												<img width="4" height="221" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -328,7 +328,7 @@
 						<div class="elementor-element elementor-element-970707c elementor-widget elementor-widget-image" data-id="970707c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="1313" src="/wp-content/uploads/2021/06/lookandfeel.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/lookandfeel.png 1236w, /wp-content/uploads/2021/06/lookandfeel-282x300.png 282w, /wp-content/uploads/2021/06/lookandfeel-768x816.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="1313" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-282x300.png 282w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-768x816.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -346,7 +346,7 @@
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="502" src="/wp-content/uploads/2021/06/resultados-2.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/resultados-2.png 1236w, /wp-content/uploads/2021/06/resultados-2-300x122.png 300w, /wp-content/uploads/2021/06/resultados-2-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="502" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-2.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-2.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-2-300x122.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-2-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -364,7 +364,7 @@
 						<div class="elementor-element elementor-element-0a7fa87 elementor-widget elementor-widget-image" data-id="0a7fa87" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1276" height="299" src="/wp-content/uploads/2021/06/Lanzamiento.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/Lanzamiento.png 1276w, /wp-content/uploads/2021/06/Lanzamiento-300x70.png 300w, /wp-content/uploads/2021/06/Lanzamiento-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
+												<img width="1276" height="299" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Lanzamiento.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Lanzamiento.png 1276w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Lanzamiento-300x70.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/Lanzamiento-768x180.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -382,7 +382,7 @@
 						<div class="elementor-element elementor-element-a7a1631 elementor-widget elementor-widget-image" data-id="a7a1631" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="487" src="/wp-content/uploads/2021/06/etapas-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/etapas-1.png 1236w, /wp-content/uploads/2021/06/etapas-1-300x118.png 300w, /wp-content/uploads/2021/06/etapas-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="487" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/etapas-1.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/etapas-1.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/etapas-1-300x118.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/etapas-1-768x303.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -416,7 +416,7 @@
 						<div class="elementor-element elementor-element-af64360 elementor-widget elementor-widget-image" data-id="af64360" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="4" height="221" src="/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
+												<img width="4" height="221" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/Separador2.png" class="attachment-large size-large" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -450,7 +450,7 @@
 						<div class="elementor-element elementor-element-0186d43 elementor-widget elementor-widget-image" data-id="0186d43" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="1348" src="/wp-content/uploads/2021/06/lookandfeel-1.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/lookandfeel-1.png 1236w, /wp-content/uploads/2021/06/lookandfeel-1-275x300.png 275w, /wp-content/uploads/2021/06/lookandfeel-1-768x838.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="1348" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-1.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-1.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-1-275x300.png 275w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/lookandfeel-1-768x838.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -468,7 +468,7 @@
 						<div class="elementor-element elementor-element-e929982 elementor-widget elementor-widget-image" data-id="e929982" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="2241" src="/wp-content/uploads/2021/06/página-web-2.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/06/página-web-2.png 1236w, /wp-content/uploads/2021/06/página-web-2-165x300.png 165w, /wp-content/uploads/2021/06/página-web-2-768x1392.png 768w, /wp-content/uploads/2021/06/página-web-2-847x1536.png 847w, /wp-content/uploads/2021/06/página-web-2-1130x2048.png 1130w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="2241" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2-165x300.png 165w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2-768x1392.png 768w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2-847x1536.png 847w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/página-web-2-1130x2048.png 1130w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -486,7 +486,7 @@
 						<div class="elementor-element elementor-element-90c0070 elementor-widget elementor-widget-image" data-id="90c0070" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1236" height="502" src="/wp-content/uploads/2021/06/resultados-3.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2021/06/resultados-3.png 1236w, /wp-content/uploads/2021/06/resultados-3-300x122.png 300w, /wp-content/uploads/2021/06/resultados-3-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
+												<img width="1236" height="502" src="http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-3.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-3.png 1236w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-3-300x122.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2021/06/resultados-3-768x312.png 768w" sizes="(max-width: 1236px) 100vw, 1236px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -520,7 +520,7 @@
 						<div class="elementor-element elementor-element-05b1ef3 elementor-widget elementor-widget-image" data-id="05b1ef3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png 346w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -544,7 +544,7 @@
 						<div class="elementor-element elementor-element-2522f7e elementor-widget elementor-widget-image" data-id="2522f7e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png 693w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -603,7 +603,7 @@
 						<div class="elementor-element elementor-element-7d3c00b elementor-widget elementor-widget-image" data-id="7d3c00b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png 590w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -615,7 +615,7 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/fidelyclorinda/">Fidel&#038;Clorinda</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -623,14 +623,14 @@
 			</item>
 		<item>
 		<title>The hud</title>
-		<link>/portfolio/the-hud/</link>
+		<link>http://https://www.ecrew.agency/portfolio/the-hud/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 21 Sep 2020 22:27:04 +0000</pubDate>
-				<guid isPermaLink="false">https://eurekacrew.com/?post_type=portfolio&#038;p=4424</guid>
+				<guid isPermaLink="false">http://https://www.ecrew.agency/?post_type=portfolio&#038;p=4424</guid>
 
 					<description><![CDATA[<p>Proyecto The Hud Proyecto Inmobiliario UX/UI, Desarrollo de página web. Timeline: 4 semanas Cliente: Qolono Inmobiliaria 2020 El Proyecto The Hud es un proyecto que parte de la idea de crear un espacio innovador para un estilo de vida vibrante en Lima. El proyecto te ofrece conectar con el sector financiero de San Isidro, manteniendote [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/portfolio/the-hud/">The hud</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/the-hud/">The hud</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4424" class="elementor elementor-4424" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -757,7 +757,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1570" height="1005" src="/wp-content/uploads/2020/08/the-hud1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/the-hud1.jpg 1570w, /wp-content/uploads/2020/08/the-hud1-300x192.jpg 300w, /wp-content/uploads/2020/08/the-hud1-1024x655.jpg 1024w, /wp-content/uploads/2020/08/the-hud1-768x492.jpg 768w, /wp-content/uploads/2020/08/the-hud1-1536x983.jpg 1536w" sizes="(max-width: 1570px) 100vw, 1570px" />														</div>
+												<img width="1570" height="1005" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1.jpg 1570w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1-300x192.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1-1024x655.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1-768x492.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud1-1536x983.jpg 1536w" sizes="(max-width: 1570px) 100vw, 1570px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -790,7 +790,7 @@
 						<div class="elementor-element elementor-element-e6a497d elementor-widget elementor-widget-image" data-id="e6a497d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="408" height="309" src="/wp-content/uploads/2020/08/logo_the-hud.png" class="attachment-full size-full" alt="logo the hud" srcset="/wp-content/uploads/2020/08/logo_the-hud.png 408w, /wp-content/uploads/2020/08/logo_the-hud-300x227.png 300w" sizes="(max-width: 408px) 100vw, 408px" />														</div>
+												<img width="408" height="309" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo_the-hud.png" class="attachment-full size-full" alt="logo the hud" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo_the-hud.png 408w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo_the-hud-300x227.png 300w" sizes="(max-width: 408px) 100vw, 408px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -808,7 +808,7 @@
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1563" height="651" src="/wp-content/uploads/2020/08/the-hud2.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/the-hud2.jpg 1563w, /wp-content/uploads/2020/08/the-hud2-300x125.jpg 300w, /wp-content/uploads/2020/08/the-hud2-1024x427.jpg 1024w, /wp-content/uploads/2020/08/the-hud2-768x320.jpg 768w, /wp-content/uploads/2020/08/the-hud2-1536x640.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
+												<img width="1563" height="651" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2.jpg 1563w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2-300x125.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2-1024x427.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2-768x320.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud2-1536x640.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -826,7 +826,7 @@
 						<div class="elementor-element elementor-element-c63c85f elementor-widget elementor-widget-image" data-id="c63c85f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1562" height="512" src="/wp-content/uploads/2020/08/the-hud3.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/the-hud3.jpg 1562w, /wp-content/uploads/2020/08/the-hud3-300x98.jpg 300w, /wp-content/uploads/2020/08/the-hud3-1024x336.jpg 1024w, /wp-content/uploads/2020/08/the-hud3-768x252.jpg 768w, /wp-content/uploads/2020/08/the-hud3-1536x503.jpg 1536w" sizes="(max-width: 1562px) 100vw, 1562px" />														</div>
+												<img width="1562" height="512" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3.jpg 1562w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3-300x98.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3-1024x336.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3-768x252.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud3-1536x503.jpg 1536w" sizes="(max-width: 1562px) 100vw, 1562px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -903,7 +903,7 @@
 						<div class="elementor-element elementor-element-d58d655 elementor-widget elementor-widget-image" data-id="d58d655" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1561" height="801" src="/wp-content/uploads/2020/08/the-hud4.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/the-hud4.jpg 1561w, /wp-content/uploads/2020/08/the-hud4-300x154.jpg 300w, /wp-content/uploads/2020/08/the-hud4-1024x525.jpg 1024w, /wp-content/uploads/2020/08/the-hud4-768x394.jpg 768w, /wp-content/uploads/2020/08/the-hud4-1536x788.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
+												<img width="1561" height="801" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4.jpg 1561w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4-300x154.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4-1024x525.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4-768x394.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/the-hud4-1536x788.jpg 1536w" sizes="(max-width: 1561px) 100vw, 1561px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -921,7 +921,7 @@
 						<div class="elementor-element elementor-element-8dffe32 elementor-widget elementor-widget-image" data-id="8dffe32" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1558" height="823" src="/wp-content/uploads/2020/09/the-hud5.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud5.jpg 1558w, /wp-content/uploads/2020/09/the-hud5-300x158.jpg 300w, /wp-content/uploads/2020/09/the-hud5-1024x541.jpg 1024w, /wp-content/uploads/2020/09/the-hud5-768x406.jpg 768w, /wp-content/uploads/2020/09/the-hud5-1536x811.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
+												<img width="1558" height="823" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5.jpg 1558w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5-300x158.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5-1024x541.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5-768x406.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud5-1536x811.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -945,7 +945,7 @@
 						<div class="elementor-element elementor-element-91c4ef3 elementor-widget elementor-widget-image" data-id="91c4ef3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="679" height="822" src="/wp-content/uploads/2020/09/the-hud7-1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud7-1.jpg 679w, /wp-content/uploads/2020/09/the-hud7-1-248x300.jpg 248w" sizes="(max-width: 679px) 100vw, 679px" />														</div>
+												<img width="679" height="822" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud7-1.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud7-1.jpg 679w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud7-1-248x300.jpg 248w" sizes="(max-width: 679px) 100vw, 679px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -983,7 +983,7 @@
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1560" height="959" src="/wp-content/uploads/2020/09/the-hud8.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud8.jpg 1560w, /wp-content/uploads/2020/09/the-hud8-300x184.jpg 300w, /wp-content/uploads/2020/09/the-hud8-1024x629.jpg 1024w, /wp-content/uploads/2020/09/the-hud8-768x472.jpg 768w, /wp-content/uploads/2020/09/the-hud8-1536x944.jpg 1536w" sizes="(max-width: 1560px) 100vw, 1560px" />														</div>
+												<img width="1560" height="959" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8.jpg 1560w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8-300x184.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8-1024x629.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8-768x472.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud8-1536x944.jpg 1536w" sizes="(max-width: 1560px) 100vw, 1560px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1001,7 +1001,7 @@
 						<div class="elementor-element elementor-element-d14f2ce elementor-widget elementor-widget-image" data-id="d14f2ce" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1558" height="1352" src="/wp-content/uploads/2020/09/the-hud9.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud9.jpg 1558w, /wp-content/uploads/2020/09/the-hud9-300x260.jpg 300w, /wp-content/uploads/2020/09/the-hud9-1024x889.jpg 1024w, /wp-content/uploads/2020/09/the-hud9-768x666.jpg 768w, /wp-content/uploads/2020/09/the-hud9-1536x1333.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
+												<img width="1558" height="1352" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9.jpg 1558w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9-300x260.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9-1024x889.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9-768x666.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud9-1536x1333.jpg 1536w" sizes="(max-width: 1558px) 100vw, 1558px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1025,7 +1025,7 @@
 						<div class="elementor-element elementor-element-7ec5d15 elementor-widget elementor-widget-image" data-id="7ec5d15" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="495" height="116" src="/wp-content/uploads/2020/09/title-resultados.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/title-resultados.png 495w, /wp-content/uploads/2020/09/title-resultados-300x70.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
+												<img width="495" height="116" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados.png 495w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados-300x70.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1043,7 +1043,7 @@
 						<div class="elementor-element elementor-element-3301732 elementor-widget elementor-widget-image" data-id="3301732" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="249" height="300" src="/wp-content/uploads/2020/09/data1.png" class="attachment-full size-full" alt="" />														</div>
+												<img width="249" height="300" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data1.png" class="attachment-full size-full" alt="" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-690a870 elementor-widget elementor-widget-text-editor" data-id="690a870" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1061,7 +1061,7 @@
 						<div class="elementor-element elementor-element-cf85bc8 elementor-widget elementor-widget-image" data-id="cf85bc8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="278" height="349" src="/wp-content/uploads/2020/09/data2.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2020/09/data2.png 278w, /wp-content/uploads/2020/09/data2-239x300.png 239w" sizes="(max-width: 278px) 100vw, 278px" />														</div>
+												<img width="278" height="349" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2.png 278w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2-239x300.png 239w" sizes="(max-width: 278px) 100vw, 278px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-70be994 elementor-widget elementor-widget-text-editor" data-id="70be994" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1079,7 +1079,7 @@
 						<div class="elementor-element elementor-element-bd41c89 elementor-widget elementor-widget-image" data-id="bd41c89" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="332" height="395" src="/wp-content/uploads/2020/09/data3.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/data3.png 332w, /wp-content/uploads/2020/09/data3-252x300.png 252w" sizes="(max-width: 332px) 100vw, 332px" />														</div>
+												<img width="332" height="395" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3.png 332w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3-252x300.png 252w" sizes="(max-width: 332px) 100vw, 332px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-51ce4d8 elementor-widget elementor-widget-text-editor" data-id="51ce4d8" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1131,7 +1131,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6238025 elementor-widget elementor-widget-wgl-video-popup" data-id="6238025" data-element_type="widget" data-widget_type="wgl-video-popup.default">
 				<div class="elementor-widget-container">
-			<div class="wgl-video_popup button_align-center animation_circles title_pos-bot with_image always-run-animation"><div class="videobox_content"><div class="videobox_background"><img width="1183" height="720" src="/wp-content/uploads/2020/09/video-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/video-1.png 1183w, /wp-content/uploads/2020/09/video-1-300x183.png 300w, /wp-content/uploads/2020/09/video-1-1024x623.png 1024w, /wp-content/uploads/2020/09/video-1-768x467.png 768w" sizes="(max-width: 1183px) 100vw, 1183px" /></div><div class="videobox_link_wrapper"><a data-rel="youtube-60f60cf268d76" class="videobox_link videobox" href="https://www.youtube.com/watch?v=aA-Bh1nyPfg&#038;ab_channel=EurekaCrew?"><svg class="videobox_icon" viewBox="0 0 232 232"><path d="M203,99L49,2.3c-4.5-2.7-10.2-2.2-14.5-2.2 c-17.1,0-17,13-17,16.6v199c0,2.8-0.07,16.6,17,16.6c4.3,0,10,0.4,14.5-2.2 l154-97c12.7-7.5,10.5-16.5,10.5-16.5S216,107,204,100z"/></svg><div class="videobox_animation circle_1"></div><div class="videobox_animation circle_2"></div><div class="videobox_animation circle_3"></div></a></div></div></div>		</div>
+			<div class="wgl-video_popup button_align-center animation_circles title_pos-bot with_image always-run-animation"><div class="videobox_content"><div class="videobox_background"><img width="1183" height="720" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/video-1.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/video-1.png 1183w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/video-1-300x183.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/video-1-1024x623.png 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/video-1-768x467.png 768w" sizes="(max-width: 1183px) 100vw, 1183px" /></div><div class="videobox_link_wrapper"><a data-rel="youtube-60f82cf3a24d3" class="videobox_link videobox" href="https://www.youtube.com/watch?v=aA-Bh1nyPfg&#038;ab_channel=EurekaCrew?"><svg class="videobox_icon" viewBox="0 0 232 232"><path d="M203,99L49,2.3c-4.5-2.7-10.2-2.2-14.5-2.2 c-17.1,0-17,13-17,16.6v199c0,2.8-0.07,16.6,17,16.6c4.3,0,10,0.4,14.5-2.2 l154-97c12.7-7.5,10.5-16.5,10.5-16.5S216,107,204,100z"/></svg><div class="videobox_animation circle_1"></div><div class="videobox_animation circle_2"></div><div class="videobox_animation circle_3"></div></a></div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1220,19 +1220,19 @@
 						<div class="elementor-element elementor-element-51eddf6 elementor-widget elementor-widget-image" data-id="51eddf6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1563" height="1227" src="/wp-content/uploads/2020/09/faceboock1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/faceboock1.jpg 1563w, /wp-content/uploads/2020/09/faceboock1-300x236.jpg 300w, /wp-content/uploads/2020/09/faceboock1-1024x804.jpg 1024w, /wp-content/uploads/2020/09/faceboock1-768x603.jpg 768w, /wp-content/uploads/2020/09/faceboock1-1536x1206.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
+												<img width="1563" height="1227" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1.jpg 1563w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1-300x236.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1-1024x804.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1-768x603.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock1-1536x1206.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-cbd4599 elementor-widget elementor-widget-image" data-id="cbd4599" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1563" height="2121" src="/wp-content/uploads/2020/09/faceboock3.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/faceboock3.jpg 1563w, /wp-content/uploads/2020/09/faceboock3-221x300.jpg 221w, /wp-content/uploads/2020/09/faceboock3-755x1024.jpg 755w, /wp-content/uploads/2020/09/faceboock3-768x1042.jpg 768w, /wp-content/uploads/2020/09/faceboock3-1132x1536.jpg 1132w, /wp-content/uploads/2020/09/faceboock3-1509x2048.jpg 1509w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
+												<img width="1563" height="2121" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3.jpg 1563w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3-221x300.jpg 221w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3-755x1024.jpg 755w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3-768x1042.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3-1132x1536.jpg 1132w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock3-1509x2048.jpg 1509w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-9d67eb6 elementor-widget elementor-widget-image" data-id="9d67eb6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1563" height="676" src="/wp-content/uploads/2020/09/faceboock4.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/faceboock4.jpg 1563w, /wp-content/uploads/2020/09/faceboock4-300x130.jpg 300w, /wp-content/uploads/2020/09/faceboock4-1024x443.jpg 1024w, /wp-content/uploads/2020/09/faceboock4-768x332.jpg 768w, /wp-content/uploads/2020/09/faceboock4-1536x664.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
+												<img width="1563" height="676" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4.jpg 1563w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4-300x130.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4-1024x443.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4-768x332.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/faceboock4-1536x664.jpg 1536w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1256,7 +1256,7 @@
 						<div class="elementor-element elementor-element-91d1642 elementor-widget elementor-widget-image" data-id="91d1642" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="495" height="118" src="/wp-content/uploads/2020/09/title_insta.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/title_insta.png 495w, /wp-content/uploads/2020/09/title_insta-300x72.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
+												<img width="495" height="118" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title_insta.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title_insta.png 495w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/title_insta-300x72.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1275,7 +1275,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
-				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide1_insta.png" alt="slide1_insta" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide2_insta.png" alt="slide2_insta" /></figure></div>			</div>
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide1_insta.png" alt="slide1_insta" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide2_insta.png" alt="slide2_insta" /></figure></div>			</div>
 																</div>
 				</div>
 				</div>
@@ -1289,7 +1289,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
-				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide2_insta2.png" alt="slide2_insta2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide1_insta2.png" alt="slide1_insta2" /></figure></div>			</div>
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide2_insta2.png" alt="slide2_insta2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide1_insta2.png" alt="slide1_insta2" /></figure></div>			</div>
 																</div>
 				</div>
 				</div>
@@ -1303,7 +1303,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
-				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide1_insta3.png" alt="slide1_insta3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2020/09/slide2_insta3.png" alt="slide2_insta3" /></figure></div>			</div>
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide1_insta3.png" alt="slide1_insta3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/slide2_insta3.png" alt="slide2_insta3" /></figure></div>			</div>
 																</div>
 				</div>
 				</div>
@@ -1406,7 +1406,7 @@
 						<div class="elementor-element elementor-element-8ab28a3 elementor-widget elementor-widget-image" data-id="8ab28a3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="495" height="116" src="/wp-content/uploads/2020/09/title-resultados.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/title-resultados.png 495w, /wp-content/uploads/2020/09/title-resultados-300x70.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
+												<img width="495" height="116" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados.png 495w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/title-resultados-300x70.png 300w" sizes="(max-width: 495px) 100vw, 495px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1424,7 +1424,7 @@
 						<div class="elementor-element elementor-element-991c328 elementor-widget elementor-widget-image" data-id="991c328" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="243" height="316" src="/wp-content/uploads/2020/09/data1-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/data1-1.png 243w, /wp-content/uploads/2020/09/data1-1-231x300.png 231w" sizes="(max-width: 243px) 100vw, 243px" />														</div>
+												<img width="243" height="316" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data1-1.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data1-1.png 243w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/data1-1-231x300.png 231w" sizes="(max-width: 243px) 100vw, 243px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1436,7 +1436,7 @@
 						<div class="elementor-element elementor-element-bf1bb28 elementor-widget elementor-widget-image" data-id="bf1bb28" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="296" height="353" src="/wp-content/uploads/2020/09/data2-2.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2020/09/data2-2.png 296w, /wp-content/uploads/2020/09/data2-2-252x300.png 252w" sizes="(max-width: 296px) 100vw, 296px" />														</div>
+												<img width="296" height="353" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2-2.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2-2.png 296w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/data2-2-252x300.png 252w" sizes="(max-width: 296px) 100vw, 296px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1448,7 +1448,7 @@
 						<div class="elementor-element elementor-element-fd4360f elementor-widget elementor-widget-image" data-id="fd4360f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="345" height="411" src="/wp-content/uploads/2020/09/data3-3.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/data3-3.png 345w, /wp-content/uploads/2020/09/data3-3-252x300.png 252w" sizes="(max-width: 345px) 100vw, 345px" />														</div>
+												<img width="345" height="411" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3-3.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3-3.png 345w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/data3-3-252x300.png 252w" sizes="(max-width: 345px) 100vw, 345px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1472,13 +1472,13 @@
 						<div class="elementor-element elementor-element-6b6f0aa elementor-widget elementor-widget-image" data-id="6b6f0aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1563" height="1926" src="/wp-content/uploads/2020/09/the-hud12.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud12.jpg 1563w, /wp-content/uploads/2020/09/the-hud12-243x300.jpg 243w, /wp-content/uploads/2020/09/the-hud12-831x1024.jpg 831w, /wp-content/uploads/2020/09/the-hud12-768x946.jpg 768w, /wp-content/uploads/2020/09/the-hud12-1247x1536.jpg 1247w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
+												<img width="1563" height="1926" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12.jpg 1563w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12-243x300.jpg 243w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12-831x1024.jpg 831w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12-768x946.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud12-1247x1536.jpg 1247w" sizes="(max-width: 1563px) 100vw, 1563px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c8540d8 elementor-widget elementor-widget-image" data-id="c8540d8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1431" height="2560" src="/wp-content/uploads/2020/09/the-hud13-scaled.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/09/the-hud13-scaled.jpg 1431w, /wp-content/uploads/2020/09/the-hud13-168x300.jpg 168w, /wp-content/uploads/2020/09/the-hud13-572x1024.jpg 572w, /wp-content/uploads/2020/09/the-hud13-768x1374.jpg 768w, /wp-content/uploads/2020/09/the-hud13-859x1536.jpg 859w, /wp-content/uploads/2020/09/the-hud13-1145x2048.jpg 1145w" sizes="(max-width: 1431px) 100vw, 1431px" />														</div>
+												<img width="1431" height="2560" src="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-scaled.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-scaled.jpg 1431w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-168x300.jpg 168w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-572x1024.jpg 572w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-768x1374.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-859x1536.jpg 859w, http://https://www.ecrew.agency/wp-content/uploads/2020/09/the-hud13-1145x2048.jpg 1145w" sizes="(max-width: 1431px) 100vw, 1431px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1512,7 +1512,7 @@
 						<div class="elementor-element elementor-element-05b1ef3 elementor-widget elementor-widget-image" data-id="05b1ef3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png 346w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1536,7 +1536,7 @@
 						<div class="elementor-element elementor-element-2522f7e elementor-widget elementor-widget-image" data-id="2522f7e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png 693w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1595,7 +1595,7 @@
 						<div class="elementor-element elementor-element-7d3c00b elementor-widget elementor-widget-image" data-id="7d3c00b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png 590w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1607,7 +1607,7 @@
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/portfolio/the-hud/">The hud</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/the-hud/">The hud</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1615,14 +1615,14 @@
 			</item>
 		<item>
 		<title>Qolono</title>
-		<link>/portfolio/qolono/</link>
+		<link>http://https://www.ecrew.agency/portfolio/qolono/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 20 Aug 2020 19:33:10 +0000</pubDate>
-				<guid isPermaLink="false">https://eurekacrew.com/?post_type=portfolio&#038;p=3536</guid>
+				<guid isPermaLink="false">http://https://www.ecrew.agency/?post_type=portfolio&#038;p=3536</guid>
 
 					<description><![CDATA[<p>Web Qolono Proyecto Inmobiliario UX/UI, Desarrollo de página web. Timeline: 4 semanas Cliente: Qolono Inmobiliaria 2020 Inmobiliaria QOLONO Desarrollo web Qolono es una inmobiliaria que busca desarrollar proyectos de vivienda innovadores y exclusivos, pensados en un nuevo estilo de vida. Buscan ser líderes en la construcción de una nueva ciudad, donde sus clientes encuentren una [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/portfolio/qolono/">Qolono</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/qolono/">Qolono</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3536" class="elementor elementor-3536" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -1749,7 +1749,7 @@
 						<div class="elementor-element elementor-element-f651397 elementor-widget elementor-widget-image" data-id="f651397" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="4312" height="1600" src="/wp-content/uploads/2020/08/Qolono-web_01-1.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/Qolono-web_01-1.png 4312w, /wp-content/uploads/2020/08/Qolono-web_01-1-300x111.png 300w, /wp-content/uploads/2020/08/Qolono-web_01-1-1024x380.png 1024w, /wp-content/uploads/2020/08/Qolono-web_01-1-768x285.png 768w, /wp-content/uploads/2020/08/Qolono-web_01-1-1536x570.png 1536w, /wp-content/uploads/2020/08/Qolono-web_01-1-2048x760.png 2048w" sizes="(max-width: 4312px) 100vw, 4312px" />														</div>
+												<img width="4312" height="1600" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1.png 4312w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1-300x111.png 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1-1024x380.png 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1-768x285.png 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1-1536x570.png 1536w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/Qolono-web_01-1-2048x760.png 2048w" sizes="(max-width: 4312px) 100vw, 4312px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1795,7 +1795,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-e6a497d elementor-widget elementor-widget-image" data-id="e6a497d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="500" height="538" src="/wp-content/uploads/2020/08/logo-qolono.png" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/logo-qolono.png 500w, /wp-content/uploads/2020/08/logo-qolono-279x300.png 279w" sizes="(max-width: 500px) 100vw, 500px" />														</div>
+												<img width="500" height="538" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo-qolono.png" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo-qolono.png 500w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/logo-qolono-279x300.png 279w" sizes="(max-width: 500px) 100vw, 500px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1813,7 +1813,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-be63dd8 elementor-widget elementor-widget-image" data-id="be63dd8" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2500" height="1089" src="/wp-content/uploads/2020/08/qolono2-1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono2-1.jpg 2500w, /wp-content/uploads/2020/08/qolono2-1-300x131.jpg 300w, /wp-content/uploads/2020/08/qolono2-1-1024x446.jpg 1024w, /wp-content/uploads/2020/08/qolono2-1-768x335.jpg 768w, /wp-content/uploads/2020/08/qolono2-1-1536x669.jpg 1536w, /wp-content/uploads/2020/08/qolono2-1-2048x892.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
+												<img width="2500" height="1089" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1.jpg 2500w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1-300x131.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1-1024x446.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1-768x335.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1-1536x669.jpg 1536w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono2-1-2048x892.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1865,7 +1865,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-1bdc60b elementor-widget elementor-widget-image" data-id="1bdc60b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2500" height="2015" src="/wp-content/uploads/2020/08/qolono3.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono3.jpg 2500w, /wp-content/uploads/2020/08/qolono3-300x242.jpg 300w, /wp-content/uploads/2020/08/qolono3-1024x825.jpg 1024w, /wp-content/uploads/2020/08/qolono3-768x619.jpg 768w, /wp-content/uploads/2020/08/qolono3-1536x1238.jpg 1536w, /wp-content/uploads/2020/08/qolono3-2048x1651.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
+												<img width="2500" height="2015" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3.jpg 2500w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3-300x242.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3-1024x825.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3-768x619.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3-1536x1238.jpg 1536w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono3-2048x1651.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1883,7 +1883,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-d14f2ce elementor-widget elementor-widget-image" data-id="d14f2ce" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2500" height="1572" src="/wp-content/uploads/2020/08/qolono4.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono4.jpg 2500w, /wp-content/uploads/2020/08/qolono4-300x189.jpg 300w, /wp-content/uploads/2020/08/qolono4-1024x644.jpg 1024w, /wp-content/uploads/2020/08/qolono4-768x483.jpg 768w, /wp-content/uploads/2020/08/qolono4-1536x966.jpg 1536w, /wp-content/uploads/2020/08/qolono4-2048x1288.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
+												<img width="2500" height="1572" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4.jpg 2500w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4-300x189.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4-1024x644.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4-768x483.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4-1536x966.jpg 1536w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono4-2048x1288.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1901,7 +1901,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-8e0b26f elementor-widget elementor-widget-image" data-id="8e0b26f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2500" height="1641" src="/wp-content/uploads/2020/08/qolono5.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono5.jpg 2500w, /wp-content/uploads/2020/08/qolono5-300x197.jpg 300w, /wp-content/uploads/2020/08/qolono5-1024x672.jpg 1024w, /wp-content/uploads/2020/08/qolono5-768x504.jpg 768w, /wp-content/uploads/2020/08/qolono5-1536x1008.jpg 1536w, /wp-content/uploads/2020/08/qolono5-2048x1344.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
+												<img width="2500" height="1641" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5.jpg 2500w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5-300x197.jpg 300w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5-1024x672.jpg 1024w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5-768x504.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5-1536x1008.jpg 1536w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono5-2048x1344.jpg 2048w" sizes="(max-width: 2500px) 100vw, 2500px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1919,7 +1919,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-51eddf6 elementor-widget elementor-widget-image" data-id="51eddf6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2032" height="2560" src="/wp-content/uploads/2020/08/qolono6-scaled.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono6-scaled.jpg 2032w, /wp-content/uploads/2020/08/qolono6-238x300.jpg 238w, /wp-content/uploads/2020/08/qolono6-813x1024.jpg 813w, /wp-content/uploads/2020/08/qolono6-768x968.jpg 768w, /wp-content/uploads/2020/08/qolono6-1219x1536.jpg 1219w, /wp-content/uploads/2020/08/qolono6-1625x2048.jpg 1625w" sizes="(max-width: 2032px) 100vw, 2032px" />														</div>
+												<img width="2032" height="2560" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-scaled.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-scaled.jpg 2032w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-238x300.jpg 238w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-813x1024.jpg 813w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-768x968.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-1219x1536.jpg 1219w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono6-1625x2048.jpg 1625w" sizes="(max-width: 2032px) 100vw, 2032px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1937,7 +1937,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-6b6f0aa elementor-widget elementor-widget-image" data-id="6b6f0aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="2112" height="2560" src="/wp-content/uploads/2020/08/qolono7-scaled.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2020/08/qolono7-scaled.jpg 2112w, /wp-content/uploads/2020/08/qolono7-248x300.jpg 248w, /wp-content/uploads/2020/08/qolono7-845x1024.jpg 845w, /wp-content/uploads/2020/08/qolono7-768x931.jpg 768w, /wp-content/uploads/2020/08/qolono7-1267x1536.jpg 1267w, /wp-content/uploads/2020/08/qolono7-1690x2048.jpg 1690w" sizes="(max-width: 2112px) 100vw, 2112px" />														</div>
+												<img width="2112" height="2560" src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-scaled.jpg" class="attachment-full size-full" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-scaled.jpg 2112w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-248x300.jpg 248w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-845x1024.jpg 845w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-768x931.jpg 768w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-1267x1536.jpg 1267w, http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono7-1690x2048.jpg 1690w" sizes="(max-width: 2112px) 100vw, 2112px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1955,7 +1955,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-c1467a3 elementor-widget elementor-widget-image" data-id="c1467a3" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img src="https://eurekacrew.com/wp-content/uploads/2020/08/qolono9-scaled.jpg" title="" alt="" />														</div>
+												<img src="http://https://www.ecrew.agency/wp-content/uploads/2020/08/qolono9-scaled.jpg" title="" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2012,7 +2012,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-d2bc2c0 elementor-widget elementor-widget-image" data-id="d2bc2c0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="346" height="5" src="/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-2-6.png 346w, /wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
+												<img width="346" height="5" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6.png 346w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-2-6-300x4.png 300w" sizes="(max-width: 346px) 100vw, 346px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2036,7 +2036,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-7ffdb80 elementor-widget elementor-widget-image" data-id="7ffdb80" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="693" height="178" src="/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-3-6.png 693w, /wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
+												<img width="693" height="178" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6.png 693w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-3-6-300x77.png 300w" sizes="(max-width: 693px) 100vw, 693px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2095,7 +2095,7 @@ Desarrollo web
 						<div class="elementor-element elementor-element-d1b5b74 elementor-widget elementor-widget-image" data-id="d1b5b74" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="590" height="685" src="/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2021/04/Recurso-9-3.png 590w, /wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
+												<img width="590" height="685" src="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png" class="attachment-large size-large" alt="" srcset="http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3.png 590w, http://https://www.ecrew.agency/wp-content/uploads/2021/04/Recurso-9-3-258x300.png 258w" sizes="(max-width: 590px) 100vw, 590px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2107,7 +2107,7 @@ Desarrollo web
 						</div>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/portfolio/qolono/">Qolono</a> appeared first on <a rel="nofollow" href="/">ECrew</a>.</p>
+		<p>The post <a rel="nofollow" href="http://https://www.ecrew.agency/portfolio/qolono/">Qolono</a> appeared first on <a rel="nofollow" href="http://https://www.ecrew.agency/">ECrew</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -3709,7 +3709,7 @@ body.side_panel-template-default #side-panel {
         -ms-transform: translate(0, 0);
         -o-transform: translate(0, 0);
         transform: translate(0, 0);
-        background: url(/wp-content/themes/inpulse/img/icons/search/search.svg);
+        background: url(http://https://www.ecrew.agency/wp-content/themes/inpulse/img/icons/search/search.svg);
         opacity: 1;
         -webkit-transition: 0.4s;
         -o-transition: 0.4s;
@@ -9493,7 +9493,7 @@ body .wpml-ls-legacy-dropdown {
   z-index: 22;
   bottom: 0;
   width: 100%;
-  background: url(/wp-content/themes/inpulse/img/wave_rev.svg);
+  background: url(http://https://www.ecrew.agency/wp-content/themes/inpulse/img/wave_rev.svg);
   height: 50%;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
